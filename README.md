@@ -252,9 +252,7 @@ java Main
 
 如有任何疑问或建议，欢迎与我们联系：
 
-- **邮箱**：support@example.com
-- **官方网站**：www.example.com
-- **GitHub**：github.com/your-repo
+- **邮箱**：2635321490@qq.com
 
 ---
 
